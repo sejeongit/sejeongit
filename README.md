@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?&color=gradient&type=waving&height=280&section=header&text=Hello,%20World!&fontSize=55" />
+ <img src="https://capsule-render.vercel.app/api?&color=gradient&type=waving&height=280&section=header&text=Hello,%20World!&fontSize=50" />
 </div>
 <br />
 <div align="center"><em>Hi, I'm <b>SeJeong</b>.</em></div>
@@ -17,7 +17,7 @@
  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
  </div>
 <br /><br />
-<div align="center"><h4>✏️ Design 🎨</h4></div>
+<div align="center"><h4>🪄 Design Skill 🪄</h4></div>
 <div align="center">
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat-square&logo=Adobe InDesign&logoColor=white"/>
 </div>
 <br /><br />
-<div align="center"><h4>😎 Me 🧐</h4></div>
+<div align="center"><h4>💌 Me 💌</h4></div>
 <div align="center">
 <a href="mailto:sejeong725@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:sejeong725@gmail.com"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
