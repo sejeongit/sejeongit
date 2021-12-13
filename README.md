@@ -29,5 +29,5 @@
 <div align="center"><h4>💌 Me 💌</h4></div>
 <div align="center">
 <a href="mailto:sejeong725@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="mailto:sejeong725@gmail.com"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.notion.so/Profile-b95a04649d4a4025be248b43a67b5ad3"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
