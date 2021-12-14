@@ -1,9 +1,7 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?&color=gradient&type=waving&height=280&section=header&text=Hello,%20World!&fontSize=50" />
+ <img src="https://capsule-render.vercel.app/api?&color=gradient&type=waving&height=280&section=header&text=Sejeong&fontSize=46" />
 </div>
-<br />
-<div align="center"><em>Hi, I'm <b>SeJeong</b>.</em></div>
-<div align="center">Front-End Developer, UI/UX Designer<br /></div>
+<div align="center">Front-End Developer, UI/UX Designer</div>
 <br /><br />
 <div align="center"><h4>🛠 Tech Stack 🛠</h4></div>
 <div align="center">
