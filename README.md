@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?&color=gradient&type=waving&height=250&section=header&text=S J&fontSize=44" />
+ <img src="https://capsule-render.vercel.app/api?&color=gradient&type=waving&height=230&section=header&text=S J&fontSize=38" />
 </div>
 <div align="center">Front-End Developer, UI/UX Designer</div>
 <br /><br />
