@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?&color=gradient&type=waving&height=230&section=header&text=S J&fontSize=38" />
 </div>
@@ -29,6 +30,6 @@
 <div align="center"><h4>💌 Me 💌</h4></div>
 <div align="center">
 <a href="mailto:sejeong725@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<!-- <a href="https://velog.io/@luckysjss"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> -->
+<a href="https://velog.io/@luckysjss"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
 <br/>
