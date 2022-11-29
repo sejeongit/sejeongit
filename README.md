@@ -1,7 +1,7 @@
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?&color=gradient&type=waving&height=230&section=header&text=S J&fontSize=38" />
 </div>
-<div align="center">Front-End Developer, UI/UX Designer</div>
+<div align="center">Front-End Developer, Web Publisher</div>
 <br /><br />
 <div align="center"><h4>🛠 Tech Stack 🛠</h4></div>
 <div align="center">
