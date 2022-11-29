@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=230&section=header&text=S J&fontSize=38)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=230&section=header&text=S J&fontSize=38)
 <div align="center">
 <!--  <img src="https://capsule-render.vercel.app/api?&color=gradient&type=waving&height=230&section=header&text=S J&fontSize=38" /> -->
 </div>
