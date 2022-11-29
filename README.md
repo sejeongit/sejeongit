@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=230&section=header&text=S%20J&fontSize=38" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=S%20J&fontSize=38" />
 </div>
 <div align="center">Front-End Developer, Web Publisher</div>
 <br /><br />
