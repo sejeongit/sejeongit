@@ -1,5 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=S J&fontSize=38)
 <div align="center">
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=S J&fontSize=38)
 <!--  <img src="https://capsule-render.vercel.app/api?&color=gradient&type=waving&height=230&section=header&text=S J&fontSize=38" /> -->
 </div>
 <div align="center">Front-End Developer, Web Publisher</div>
