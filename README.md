@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=180&section=header&text=S%20J&fontSize=36" />
 </div>
 <br />
-<div align="center">Web Publisher, Front-End Developer</div>
+<div align="center">Web Publisher</div>
 <br /><br />
 <div align="center"><h4>🛠 Tech Stack 🛠</h4></div>
 <div align="center">
