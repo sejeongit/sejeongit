@@ -13,6 +13,7 @@
  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> -->
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Chart.js-000000?style=flat-square&logo=Chastjs&logoColor=white"/>
  <img src="https://img.shields.io/badge/Openlayers-1F6B75?style=flat-square&logo=Openlayers&logoColor=white"/>
  
  </div>
